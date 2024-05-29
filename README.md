@@ -6,7 +6,7 @@ A small tutorial with the basic usage of connalysis for biological neural networ
 
 ***In your own computer***
 
-Install Connectome Utilities and Connectome analysis
+Install Connectome Utilities and Connectome analysis.  Warning: After this test, we will migrate connalysis to https://github.com/BlueBrain
    ```
    pip install git+https://github.com/danielaegassan/connectome_analysis.git
    pip install Connectome-Utilities
