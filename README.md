@@ -1,6 +1,7 @@
 # Basic connalysis tutorial
 
-A small tutorial with the basic usage of connalysis for biological neural networks (BNNs) 
+A small tutorial with the basic usage of connalysis for biological neural networks (BNNs).  Connalysis documentation is work in progress and can be found 
+[here](https://danielaegassan.github.io/connectome_analysis/).
 
 ## Setup 
 
