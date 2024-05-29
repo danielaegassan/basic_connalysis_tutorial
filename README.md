@@ -55,8 +55,10 @@ pip install notebook
 
 ## Getting started 
 
-1. Follow LINK TO NOTEBOOK, for instructions on how to quickly get the Celegans connectomes and possibly also the MICrONS connectome. This will also show you how to load them easily with Connectome-Utilities.
-2. Follow notebooks 2, 3 and 4 to get an broad overview on using connalysis.
+1. Follow the notebook
+[1_Loading_the_data](https://github.com/danielaegassan/basic_connalysis_tutorial/blob/main/1_Loading_the_data.ipynb),
+for instructions on how to quickly get the Celegans connectomes and possibly also the MICrONS connectome. This will also show you how to load them easily with Connectome-Utilities.
+2. Follow notebooks 2, 3 and 4 to get a broad overview on using connalysis on BNNs.
 3. If time allows follow notebook 5 to get a quick example on generating distance dependent control models.
 
 ## Extra information 
