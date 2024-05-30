@@ -11,6 +11,8 @@ Install Connectome Utilities and Connectome analysis.  Warning: After this test,
    ```
    pip install git+https://github.com/danielaegassan/connectome_analysis.git
    pip install Connectome-Utilities
+   pip install xlrd
+   pip install openpyxl
    ```
 
 For more information on installation check: 
